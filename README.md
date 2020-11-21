@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 coour setting: &title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,EF0A6A,B6359C
 -->
 [![YHPeter's github stats](https://github-readme-stats.vercel.app/api?username=YHPeter&hide=prs,issues&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,007DDE,EF0A6A)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YHPeter&theme=buefy&hide=Batchfile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YHPeter&theme=buefy&hide=Batchfile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YHPeter&repo=github-readme-stats&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
