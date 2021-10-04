@@ -2,9 +2,9 @@
 
 <h1 align="center">Peter's Town</h1>
 
-<h2 align="center">Software Developer and Interest in AI Competition and Quantum Computing</h2><br>
+<h3 align="center">Software Developer and Interest in AI Competition and Quantum Computing</h2>
 
-<h2 align="center">Freshman and looking for 2022 Summer internship</h2><br>
+<h3 align="center">Freshman and looking for 2022 Summer internship</h2>
 
 - Software Development
 - Back-End Development & Operation
