@@ -1,9 +1,10 @@
 <!-- # Peter HomePage -->
 
-<h2 align="center">Peter's Town</h2>
-<h3 align="center">Software Developer and Interest in AI Competition and Quantum Computing</h3><br>
+<h1 align="center">Peter's Town</h1>
 
-## Freshman and looking for 2022 Summer internship
+<h2 align="center">Software Developer and Interest in AI Competition and Quantum Computing</h2><br>
+
+<h2 align="center">Freshman and looking for 2022 Summer internship</h2><br>
 
 - Software Development
 - Back-End Development & Operation
