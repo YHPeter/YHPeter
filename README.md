@@ -9,6 +9,7 @@
 - Software Development
 - Back-End Development & Operation
 - Data Science / TensorFlow2
+- Currently learning DevOps
 <!-- I’m currently learning Tensorflow 2.0 and Contineous Intergration. -->
 
 <!-- 🔭 I’m currently working on Web Deployment and Operation
