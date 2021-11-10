@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-coour setting: &title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,EF0A6A,B6359C
--->
 ![CV](Part1.jpg)
 ![CV](Part2.jpg)
 
+coour setting: &title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,EF0A6A,B6359C
+-->
 [![YHPeter's github stats](https://github-readme-stats.vercel.app/api?username=YHPeter&theme=vue&hide=prs,issues&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,007DDE,EF0A6A)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YHPeter&theme=buefy&hide=Batchfile)](https://github.com/anuraghazra/github-readme-stats) -->
