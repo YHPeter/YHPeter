@@ -38,4 +38,4 @@ coour setting: &title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=
 -->
 [![YHPeter's github stats](https://github-readme-stats.vercel.app/api?username=YHPeter&theme=vue&hide=prs,issues&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,007DDE,EF0A6A)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YHPeter&theme=buefy&hide=Batchfile)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YHPeter&theme=buefy&hide=Batchfile)](https://github.com/anuraghazra/github-readme-stats)
