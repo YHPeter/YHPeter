@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![CV](Part1.jpg)
 ![CV](Part2.jpg)
 
-coour setting: &title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,EF0A6A,B6359C
+coour setting: &title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,EF0A6A,B6359C &hide=prs,issues
 -->
-[![YHPeter's github stats](https://github-readme-stats.vercel.app/api?username=YHPeter&theme=vue&hide=prs,issues&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,007DDE,EF0A6A&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YHPeter&theme=buefy&hide=Batchfile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![YHPeter's github stats](https://github-readme-stats.vercel.app/api?username=YHPeter&theme=vue&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,007DDE,EF0A6A&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YHPeter&theme=buefy&hide=Batchfile,JupyterNotebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
