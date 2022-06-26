@@ -2,14 +2,14 @@
 
 <h1 align="center">Peter's Town</h1>
 
-<h3 align="center">Software Developer and Interest in AI Competition and Quantum Computing</h2>
+<h3 align="center">Software Developer, Interest in AI Competition and Quantum Computing, Kaggle Expert</h2>
 
-<h3 align="center">Freshman and looking for 2023 Summer internship</h2>
+<h3 align="center">Looking for 2023 Summer internship</h2>
 
+- AI Compeitions (Kaggle, AIAC, KDD) Pytorch / TensorFlow2 
 - Software Development
 - Back-End Development & Operation
-- Data Science / Pytorch / TensorFlow2 
-- Currently learning DevOps
+<!-- - Currently learning DevOps -->
 <!-- I’m currently learning Tensorflow 2.0 and Contineous Intergration. -->
 
 <!-- 🔭 I’m currently working on Web Deployment and Operation
