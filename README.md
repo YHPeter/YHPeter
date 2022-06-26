@@ -4,11 +4,11 @@
 
 <h3 align="center">Software Developer and Interest in AI Competition and Quantum Computing</h2>
 
-<h3 align="center">Freshman and looking for 2022 Summer internship</h2>
+<h3 align="center">Freshman and looking for 2023 Summer internship</h2>
 
 - Software Development
 - Back-End Development & Operation
-- Data Science / TensorFlow2
+- Data Science / Pytorch / TensorFlow2 
 - Currently learning DevOps
 <!-- I’m currently learning Tensorflow 2.0 and Contineous Intergration. -->
 
