@@ -4,7 +4,7 @@
 
 <h3 align="center">Software Developer, Interest in AI Competition and Quantum Computing, Kaggle Expert</h2>
 
-<h3 align="center">Looking for 2023 Summer internship</h2>
+<h3 align="center">Looking for 2024 Summer internship</h2>
 
 - AI Compeitions (Kaggle, AIAC, KDD) Pytorch / TensorFlow2 
 - Software Development
