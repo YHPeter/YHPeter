@@ -4,37 +4,11 @@
 
 <h3 align="center">Software Developer, Interest in AI Competition and Quantum Computing, Kaggle Expert</h2>
 
-<h3 align="center">Looking for 2024 Summer internship</h2>
+<h3 align="center">Looking for 2024 Summer internship and fulltime</h2>
 
-- AI Compeitions (Kaggle, AIAC, KDD) Pytorch / TensorFlow2 
+- AI Competitions (Kaggle, AIAC, KDD) Pytorch / TensorFlow2 
 - Software Development
 - Back-End Development & Operation
-<!-- - Currently learning DevOps -->
-<!-- I’m currently learning Tensorflow 2.0 and Contineous Intergration. -->
 
-<!-- 🔭 I’m currently working on Web Deployment and Operation
-
-🌱 
-
-👯 I’m working for on [Tech4GoodCN](https://github.com/Tech4GoodCN) -->
-<!--
-**YHPeter/YHPeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![CV](Part1.jpg)
-![CV](Part2.jpg)
-
-coour setting: &title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,EF0A6A,B6359C &hide=prs,issues
--->
 [![YHPeter's github stats](https://github-readme-stats.vercel.app/api?username=YHPeter&theme=vue&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,007DDE,EF0A6A&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YHPeter&theme=buefy&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
