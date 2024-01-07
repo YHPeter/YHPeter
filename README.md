@@ -11,4 +11,4 @@
 - Back-End Development & Operation
 
 [![YHPeter's github stats](https://github-readme-stats-ftc8.vercel.app/api?username=YHPeter&theme=vue&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,007DDE,EF0A6A&count_private=true)](https://github.com/YHPeter)
-[![Top Langs](https://github-readme-stats-ftc8.vercel.app/api/top-langs/?username=YHPeter&theme=buefy&hide=jupyter%20notebook&hide=html&layout=compact&count_private=true)](https://github.com/YHPeter)
+[![Top Langs](https://github-readme-stats-ftc8.vercel.app/api/top-langs/?username=YHPeter&theme=buefy&hide=jupyter%20notebook&layout=compact&count_private=true)](https://github.com/YHPeter)
