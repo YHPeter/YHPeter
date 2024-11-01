@@ -1,6 +1,6 @@
 <!-- # Peter HomePage -->
 
-<h1 align="center">Peter's Town</h1>
+<h1 align="center">Peter's Town (Looking for PhD/Industrial position 🤗)</h1>
 
 <h3 align="center">Software Developer, Interest in AI Competition and Quantum Computing, Kaggle Expert</h2>
 
