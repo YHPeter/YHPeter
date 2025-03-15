@@ -5,7 +5,7 @@
 <h3 align="center">Software Developer, Interest in AI Competition and Quantum Computing, Kaggle Expert</h2>
 
 <!-- <h3 align="center">Looking for 2024 Canada Summer internship and fulltime position</h2> -->
-
+- Paper has been accepted in EMNLP, ACL, NeruIPS, Big Data.
 - AI Competitions (Kaggle, AIAC, KDD) Pytorch / TensorFlow2 
 - Software Development
 - Back-End Development & Operation
